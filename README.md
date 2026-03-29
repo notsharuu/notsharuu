@@ -1,29 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> fb30dbd (DONEE)
-## Hi there 👋
-
-<!--
-**notsharuu/notsharuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<<<<<<< HEAD
-=======
-=======
-<!-- Header -->
-<div align="center">
-
 ```
                __         .__                                    ___    
   ____   _____/  |_  _____|  |__ _____ _______ __ __ __ __   /\  \  \   
