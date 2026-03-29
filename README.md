@@ -74,9 +74,3 @@ const sharif = {
 - 🌐 **Portfolio** → [sharifjameel90.github.io](https://sharifjameel90.github.io/)
 
 ---
-
-<div align="center">
-  <sub>built something cool? want to collab? just wanna talk code? hit me up.</sub>
-</div>
->>>>>>> e7b3ac8 (all donee)
->>>>>>> fb30dbd (DONEE)
